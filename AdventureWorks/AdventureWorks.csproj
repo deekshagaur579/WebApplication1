@@ -529,6 +529,7 @@
     <Content Include="AdventureWorksModel.edmx.diagram">
       <DependentUpon>AdventureWorksModel.edmx</DependentUpon>
     </Content>
+    <Content Include=".github\worflows\build.yml" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -556,7 +557,6 @@
     <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include=".github\" />
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
