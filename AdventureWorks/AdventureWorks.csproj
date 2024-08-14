@@ -529,7 +529,6 @@
     <Content Include="AdventureWorksModel.edmx.diagram">
       <DependentUpon>AdventureWorksModel.edmx</DependentUpon>
     </Content>
-    <Content Include=".github\worflows\build.yml" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
